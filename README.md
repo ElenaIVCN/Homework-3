@@ -1,2 +1,4 @@
 # Homework-3
-Resolved the js exercises
+Solved js exercises, not finished with the challenge
+
+https://elenaivcn.github.io/Homework-3
